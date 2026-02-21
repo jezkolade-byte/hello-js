@@ -1,0 +1,25 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jezkolade-byte/hello-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jezkolade-byte/hello-js/issues"
+  },
+  "homepage": "https://github.com/jezkolade-byte/hello-js#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
+
+type: module
