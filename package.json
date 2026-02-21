@@ -1,8 +1,10 @@
 {
   "name": "index",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "MyProject/index.js",
+  "type": "commonjs",
   "scripts": {
+    "start": "node MyProject/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +23,3 @@
     "express": "^5.2.1"
   }
 }
-
-type: module
